@@ -2,8 +2,7 @@
 Reza Sheikhi, Universiy of Connecticut,
 Fall 2020
 
-Some of the codes and files used in ME6300 (Spring 2020) Turbulence Modeling Course
+The course consists of the following modules, each include lessons in Jupyter Notebook:
 
-* Root finding and optimization
-* * jfvbjhfbv
-[I'm an inline-style link](https://www.google.com)
+* Module 1: Root finding and optimization
+  *  [I'm an inline-style link](https://www.google.com)
