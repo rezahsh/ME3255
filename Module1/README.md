@@ -1,4 +1,4 @@
-In Module 1 covers root finding and optimization including the following topics which are explained/exercised using the Jupyter Notebooks in this folder.
+Module 1 covers root finding and optimization including the following topics which are explained/exercised using the Jupyter Notebooks in this folder.
 * Root finding
   * Bracketing Methods
     * Incremental search
